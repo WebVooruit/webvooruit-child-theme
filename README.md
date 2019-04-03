@@ -1,4 +1,4 @@
-# webvooruit-child-theme
+# WebVooruit Child Theme
 Basis Wordpress Child Theme
 
 ## andere css in eigen child gebruiken
