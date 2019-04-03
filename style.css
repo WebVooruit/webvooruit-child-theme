@@ -14,10 +14,13 @@
    Kan eigen style worden geplaatst.
 -------------------------------------------------------------- */
 body {
+ background-color: #ff00ff;
 }
 h1 {
+ color: #ff0000;
 }
 #main-content {
 }
 .inline {
+ display: inline;
 }
